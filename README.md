@@ -1,5 +1,5 @@
 <a href="https://github.com/Gwendolin-Anna">
-  <img align="right" alt="gwendolinanna animated logo" height="200px" src="https://media.giphy.com/media/Eo2IUQx60yRXmUfmSE/giphy.gif" />
+  <img align="right" alt="gwendolinanna animated logo" height="200px" src="https://media.giphy.com/media/MQrx9KTVXHpHFjdlza/giphy.gif/>
 </a>
 
 
